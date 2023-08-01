@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: lightcoral;
+}
+
+#maDiv{
+    border: 1px solid black;
+    height: 500px;
+    margin: 10% 20%;
+    border-radius: 10px;
+    background: linear-gradient(rgb(167, 167, 190), rgb(128, 128, 60));
+}
+
+li{
+    display: inline-block;
+    margin: 0px 20px;
+}
+
+.main{
+    border: 1px solid black;
+    border-radius: 10px 10px 0px 0px;
+}
+
+a:hover{
+    color: green;
+    border: 1px solid red;
+}

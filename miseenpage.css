@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div#bandeau{
+    width: 100%;
+    height: 25vh;
+    background-color: #00ccff;
+}
+
+div#contenu{
+    width: 100%;
+    height:500px;
+    background-color: #ffcc00;
+}
+
+div#piedpage{
+    width: 100%;
+    height: 31vh;
+    background-color: #33ff99;
+}
+
+div#menu{
+    float: left;
+    width: 400px;
+    height: 500px;
+    background-color: #ff6699;
+    clear: both;
+} 
+
+div#menu_haut{
+    width: 400px;
+    height: 50%;
+    background-color: #66cc33;
+}
+
+div#menu_bas{
+    width: 400px;
+    height: 50%;
+    background-color: #cc99cc;
+}
+
+#bloc_news{
+    float: right;
+    width: 200px;
+    height: 100%;
+    background-color: red;
+    text-align: center;
+    font-size: 30px;
+}
+
+#menu2{
+    text-align: justify;
+    font-size: 50px;
+}
+
